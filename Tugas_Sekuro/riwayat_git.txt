@@ -1,0 +1,7 @@
+*   cd49d37 fix: menyelesaikan konflik dan menggabungkan v1 dan v2
+|\  
+| * ab3c64a feat: tambah komentar versi 1
+* | e502a81 feat: tambah komentar versi 2
+|/  
+* 7b32867 inisiasi github
+* 848f604 inisiasi github
